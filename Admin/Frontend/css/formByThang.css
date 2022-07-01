@@ -1,0 +1,41 @@
+
+.container_Input{
+    margin: 200px auto;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    width: 350px;
+    padding: 20px 0;
+    flex-direction: column;
+}
+.container_Input a{
+    margin-left: 270px;
+}
+table tr{
+    
+}
+table td{
+    padding: 0 10px;
+}
+table{
+    margin-left: 20px;
+}
+input{
+    padding: 10px;
+    margin-top: 10px;
+}
+button{
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0b7dda;
+    margin-left: 40%;
+    margin-top: 10px;
+    border: none;
+}
+.inputForm{
+    padding-left: 8px;
+}
+h3{
+    text-align: center;
+}
